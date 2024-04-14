@@ -1,4 +1,7 @@
 "use strict";
-let mySize = 2;
+//const small =1;
+//const medium=2;
+//const large =3;
+let mySize = 2 /* Size.Medium */;
 console.log(mySize);
 //# sourceMappingURL=enum.js.map
